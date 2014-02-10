@@ -3,7 +3,7 @@ Select ScanSnap Profile Workflow for Alfred
 
 Select a ScanSnap Manager Profile via the keyboard from [Alfred 2](http://www.alfredapp.com/).
 
-![Adding a task to Wunderlist](https://raw.github.com/idpaterson/alfred-wunderlist-workflow/gh-pages/images/screenshots/add_task_to_list.jpg)
+![Adding a task to Wunderlist](https://raw.github.com/brooksduncan/alfred-scansnap-workflow/master/asm-scan-to-email.png)
 
 Setup
 -----
